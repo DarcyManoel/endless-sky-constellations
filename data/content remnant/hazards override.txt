@@ -1,0 +1,2 @@
+hazard "Ember Waste Base Storm"
+	"duration" 1
