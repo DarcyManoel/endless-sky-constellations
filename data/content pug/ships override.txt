@@ -1,0 +1,3 @@
+ship "Pug Arfecta"]
+	add attributes
+		"weapon capacity" 9
