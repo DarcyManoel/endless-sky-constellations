@@ -8,8 +8,8 @@ ship "Model 8" "Model 8 (Disruptor)"
 		"Steering (Lunar Class)"
 		"Systems Core (Small)"
 		"Thruster (Comet Class)"
-	gun 9 -36 "Shield Disruptor Gun"
 	gun -11 -15 "Shield Disruptor Gun"
+	gun 9 -36 "Shield Disruptor Gun"
 ship "Model 8" "Model 8 (Minelayer)"
 	outfits
 		"Cluster Mine Layer"
@@ -24,37 +24,37 @@ ship "Model 8" "Model 8 (Minelayer)"
 	gun 9 -36 "Cluster Mine Layer"
 ship "Ikatila'ej" "Ikatila'ej (Jump)"
 	outfits
-		"Microbot Grinder"
-		"Shunt-Strike Turret" 3
-		"Grab-Strike Turret" 2
-		"Warder Anti-Missile" 3
-		"Triple Plasma Core"
-		"Double Plasma Core"
-		"Systems Core (Large)"
-		"Large Heat Shunt" 2
-		"Thermal Repeater Rifle" 986
-		"Microbot Defense Station" 26
 		"Afterburner (Lunar Class)"
-		"Reverser (Lunar Class)"
-		"Steering (Stellar Class)"
-		"Thruster (Stellar Class)"
+		"Double Plasma Core"
+		"Grab-Strike Turret" 2
 		"Jump Drive"
+		"Large Heat Shunt" 2
+		"Microbot Defense Station" 26
+		"Microbot Grinder"
+		"Reverser (Lunar Class)"
+		"Shunt-Strike Turret" 3
+		"Steering (Stellar Class)"
+		"Systems Core (Large)"
+		"Thermal Repeater Rifle" 986
+		"Thruster (Stellar Class)"
+		"Triple Plasma Core"
+		"Warder Anti-Missile" 3
 ship "Kasichara A'awoj" "Kasichara A'awoj (Jump)"
 	outfits
+		"Afterburner (Comet Class)"
 		"Banisher Grav-Turret" 3
-		"Warder Anti-Missile" 3
-		"Grab-Strike Turret" 2
-		"Triple Plasma Core"
-		"Systems Core (Large)"
-		"Systems Core (Small)"
-		"Large Heat Shunt" 2
-		"Small Heat Shunt" 3
 		"Fuel Processor" 2
+		"Grab-Strike Turret" 2
+		"Jump Drive"
+		"Large Heat Shunt" 2
 		"Luxury Accommodations"
 		"Microbot Defense Station" 23
-		"Thermal Repeater Rifle" 548
-		"Afterburner (Comet Class)"
 		"Reverser (Lunar Class)"
-		"Thruster (Stellar Class)"
+		"Small Heat Shunt" 3
 		"Steering (Planetary Class)"
-		"Jump Drive"
+		"Systems Core (Large)"
+		"Systems Core (Small)"
+		"Thermal Repeater Rifle" 548
+		"Thruster (Stellar Class)"
+		"Triple Plasma Core"
+		"Warder Anti-Missile" 3

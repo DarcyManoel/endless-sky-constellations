@@ -1,46 +1,46 @@
 outfit "Cluster Mine Layer"
 	weapon
-		"corrosion damage" -350
-		"die effect" "minelayer split" 5
-		"fire effect" "minelayer fire"
-		"firing energy" 36
-		"firing heat" 36
-		"hit effect" "huge explosion"
-		"hit force" -150
-		"hull damage" -2400
-		"infrared tracking" .9
-		"missile strength" 35
-		"shield damage" -3000
-		acceleration .16
-		ammo "Cluster Mine"
-		drag .04
-		homing 4
-		icon "icon/minelayer"
-		inaccuracy 10
-		lifetime 100
-		reload 180
-		sound "minelayer"
 		sprite "projectile/korath minelayer"
 			"frame rate" .6
 			"no repeat"
-		stream
+		sound "minelayer"
+		ammo "Cluster Mine"
+		icon "icon/minelayer"
+		"fire effect" "minelayer fire"
+		"hit effect" "huge explosion"
+		"die effect" "minelayer split" 5
 		submunition "Corrosive Mine Submunition" 5
-		turn 2
+		stream
+		lifetime 100
 		velocity 3
+		acceleration .16
+		drag .04
+		turn 2
+		inaccuracy 10
+		"firing energy" 36
+		"firing heat" 36
+		reload 180
+		homing 4
+		"infrared tracking" .9
+		"missile strength" 35
+		"hit force" -150
+		"shield damage" -3000
+		"hull damage" -2400
+		"corrosion damage" -350
 outfit "Corrosive Mine Submunition"
 	weapon
-		"corrosion damage" 70
-		"die effect" "tiny explosion"
+		sprite "projectile/korath mine"
+			"frame rate" 1
+			"no repeat"
 		"hit effect" "large explosion"
-		"hit force" 200
-		"missile strength" 22
+		"die effect" "tiny explosion"
+		lifetime 1000
 		"random lifetime" 60
+		velocity 2
 		"random velocity" 5
 		acceleration .00001
 		drag .05
 		inaccuracy 360
-		lifetime 1000
-		sprite "projectile/korath mine"
-			"frame rate" 1
-			"no repeat"
-		velocity 2
+		"missile strength" 22
+		"hit force" 200
+		"corrosion damage" 70
