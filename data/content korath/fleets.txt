@@ -1,0 +1,30 @@
+fleet "Korath Schism Jump"
+	government "Korath"
+	names "korath"
+	fighters
+		names "korath"
+	cargo 0
+	personality
+		heroic
+	variant
+		"Ra'at Ik 621"
+	variant
+		"Rano'erek (Ground Assault)"
+		"'olofez" 6
+	variant
+		"Lor'nag Ik 590 (Troop Transport)"
+	variant
+		"Rai'alorej"
+		"'olofez (Expeller)" 2
+	variant
+		"Kas'lor Ik 582 (Ember)"
+	variant
+		"Ra'gru Ik 618"
+	variant
+		"Lor'kas Ik 577 (Jump)"
+	variant
+		"Tubfalet"
+	variant
+		"Ikatila'ej (Jump)"
+	variant
+		"Kasichara A'awoj (Jump)"

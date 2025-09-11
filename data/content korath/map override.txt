@@ -1,0 +1,2 @@
+system "Kor Ak'Mari"
+	fleet "Korath Schism Jump" 1600
