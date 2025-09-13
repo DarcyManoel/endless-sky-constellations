@@ -1,0 +1,2 @@
+disable mission
+	"Remnant: Expanded Horizons Storms 1"
