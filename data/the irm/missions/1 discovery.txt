@@ -253,14 +253,13 @@ mission "Irm: resonance 3"
 			`	Mysteriously, little recognition is afforded to any questions about where their ring is in space now. The subject of the complete and strangely untraceable disappearance of the Irm is avoided, so you decide not to press these questions considering how fortunate you are to get this retelling as it is.`
 				decline
 mission "Irm: resonance 4"
-	invisible
-	landing
+	entering
 	source
-		government "Remnant"
-	to offer
-		has "Irm: resonance 1: offered"
-		has "Remnant: Technology Available: offered"
-	on enter "Waypoint"
+		system "Waypoint"
+	destination
+		planet "Earth"
+	on offer
+		require "Keystone Stabilizer"
 		fail
 		conversation
 			scene "scene/the irm/ring"
