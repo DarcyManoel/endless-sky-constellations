@@ -120,22 +120,22 @@ ship "Kar Ik Vot 711"
 		over
 	gun -11.5 -319.5 "Piercer Missile Launcher"
 	gun 11.5 -319.5 "Piercer Missile Launcher"
+	turret -50.5 -259.5 "Thermal Repeater Turret"
+	turret 50.5 -259.5 "Thermal Repeater Turret"
+	turret -52 -235.5 "Thermal Repeater Turret"
+	turret 52 -235.5 "Thermal Repeater Turret"
+	turret -54.5 -207.5 "Thermal Repeater Turret"
+	turret 54.5 -207.5 "Thermal Repeater Turret"
+	turret -55 -178.5 "Banisher Grav-Turret"
+	turret 55 -178.5 "Banisher Grav-Turret"
+	turret -53 -152.5
+	turret 53 -152.5
+	turret -50.5 -128.5 "Warder Anti-Missile"
+	turret 50.5 -128.5 "Warder Anti-Missile"
 	turret -123.5 201 "Thermal Repeater Turret"
 	turret -102.5 201 "Warder Anti-Missile"
 	turret 102.5 201 "Warder Anti-Missile"
 	turret 123.5 201 "Thermal Repeater Turret"
-	turret -50.5 -128.5 "Warder Anti-Missile"
-	turret 50.5 -128.5 "Warder Anti-Missile"
-	turret -53 -152.5
-	turret 53 -152.5
-	turret -55 -178.5 "Banisher Grav-Turret"
-	turret 55 -178.5 "Banisher Grav-Turret"
-	turret -54.5 -207.5 "Thermal Repeater Turret"
-	turret 54.5 -207.5 "Thermal Repeater Turret"
-	turret -52 -235.5 "Thermal Repeater Turret"
-	turret 52 -235.5 "Thermal Repeater Turret"
-	turret -50.5 -259.5 "Thermal Repeater Turret"
-	turret 50.5 -259.5 "Thermal Repeater Turret"
 	explode "huge explosion" 20
 	explode "large explosion" 60
 	explode "medium explosion" 90
