@@ -1,0 +1,7 @@
+# Constellations
+### authors:
+- Darcy Manoel
+### dependencies:
+- "game version" 0.10.7
+### about:
+This plugin aims to improve the vanilla experience through a range of changes. Both balance changes and content expansions are included.
