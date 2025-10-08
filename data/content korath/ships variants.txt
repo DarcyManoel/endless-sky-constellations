@@ -1,27 +1,3 @@
-ship "Model 8" "Model 8 (Disruptor)"
-	outfits
-		"Hyperdrive"
-		"Plasma Core"
-		"Reasoning Node"
-		"Shield Disruptor Gun" 2
-		"Small Heat Shunt"
-		"Steering (Lunar Class)"
-		"Systems Core (Small)"
-		"Thruster (Comet Class)"
-	gun -11 -15 "Shield Disruptor Gun"
-	gun 9 -36 "Shield Disruptor Gun"
-ship "Model 8" "Model 8 (Minelayer)"
-	outfits
-		"Cluster Mine Layer"
-		"Cluster Mine Rack" 3
-		"Cluster Mine" 44
-		"Generator (Furnace Class)"
-		"Hyperdrive"
-		"Reasoning Node"
-		"Steering (Lunar Class)"
-		"Systems Core (Small)"
-		"Thruster (Comet Class)"
-	gun 9 -36 "Cluster Mine Layer"
 ship "Ikatila'ej" "Ikatila'ej (Jump)"
 	outfits
 		"Afterburner (Lunar Class)"

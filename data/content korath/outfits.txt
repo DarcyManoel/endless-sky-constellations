@@ -1,26 +1,3 @@
-outfit "Shield Disruptor Gun"
-	category "Guns"
-	thumbnail "outfit/content korath/disruptor gun"
-	cost 697000
-	mass 23
-	"outfit space" -23
-	"weapon capacity" -23
-	"gun ports" -1
-	weapon
-		sprite "projectile/disruptor"
-			"frame rate" 15
-		sound "disruptor"
-		"hit effect" "disruptor impact"
-		lifetime 1
-		velocity 480
-		inaccuracy 1
-		"firing energy" 8.0
-		"firing heat" 2.7
-		reload 1
-		"shield damage" 3.8
-		"hull damage" .5
-		"disruption damage" .24
-	description `Shield Disruptors interfere with a ship's shields, allowing a ship's hull to be damaged even when shields are up. However, they do very little hull damage by themselves.`
 outfit "Vector Engine (Reality Class)"
 	category "Engines"
 	"flare sprite" "effect/korath flare/huge"
