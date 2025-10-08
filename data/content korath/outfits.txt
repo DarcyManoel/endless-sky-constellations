@@ -1,10 +1,9 @@
 outfit "Vector Engine (Reality Class)"
 	category "Engines"
-	"flare sprite" "effect/korath flare/huge"
-		"frame rate" 6
-	"flare sound" "plasma huge"
-	thumbnail "outfit/content korath/vector engine reality class"
+	series "Engines"
+	index 04063
 	cost 5192000
+	thumbnail "outfit/content korath/vector engine reality class"
 	mass 198
 	"outfit space" -198
 	"engine capacity" -198
@@ -14,4 +13,7 @@ outfit "Vector Engine (Reality Class)"
 	turn 6399
 	"turning energy" 13.7
 	"turning heat" 34.2
+	"flare sprite" "effect/korath flare/huge"
+		"frame rate" 6
+	"flare sound" "plasma huge"
 	description `Endless skirmishes among the rival Korath forces have produced a mockery of the word efficiency. Although total power output is increased considerably, the waste energy is very nearly enough to offset the advantages.`
