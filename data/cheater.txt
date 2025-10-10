@@ -1,0 +1,2 @@
+outfit "cheater: travel"
+	"resonant drain" 1
