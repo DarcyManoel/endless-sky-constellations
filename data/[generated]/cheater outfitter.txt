@@ -1,0 +1,12 @@
+#	this text was generated using endless-sky-generator on github
+outfitter "cheater: everything"
+	"Keystone Stabilizer"
+	"Knockout Gas"
+	"Odus Reformatory"
+	"Ordaria System Cooler"
+	"Ospora Habitation Cooler"
+	"Shipwright Gear"
+	"Tekina Engine"
+	"Type 0 Radiant Engine"
+	"Vector Engine (Reality Class)"
+	"dummy"
