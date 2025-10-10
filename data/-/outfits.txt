@@ -1,16 +1,17 @@
 #	content, human
 outfit "Knockout Gas"
-	category "Hand to Hand"
 	plural "Cases of Knockout Gas"
 	thumbnail "-/outfit/knockout gas"
+	category "Hand to Hand"
+	series "H2H"
+	index 01020
 	description `Researchers from Lovelace Labs have found a way to weaponize the chemical compounds derived from psychoactive plants found on some of the more exotic planet ecosystems. Though not as powerful as nerve gas, knockout gas is non-fatal.`
 	cost 110000
 	licenses
 		"Navy"
-
+	unplunderable 1
 	"capture attack" 2.2
 	"capture defense" 1.2
-	unplunderable 1
 #	specialist crew
 outfit "Shipwright Gear"
 	category "Special"

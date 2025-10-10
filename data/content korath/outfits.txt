@@ -1,9 +1,9 @@
 outfit "Vector Engine (Reality Class)"
+	thumbnail "outfit/content korath/vector engine reality class"
 	category "Engines"
 	series "Engines"
 	index 04063
 	cost 5192000
-	thumbnail "outfit/content korath/vector engine reality class"
 	mass 198
 	"outfit space" -198
 	"engine capacity" -198
