@@ -1,4 +1,4 @@
-#	this text was generated using endless-sky-generator on github
+#	this text was generated using endless-sky-scripts on github
 shipyard "cheater: everything"
 	"Freighter (Turner)"
 	"Ikatila'ej (Jump)"
