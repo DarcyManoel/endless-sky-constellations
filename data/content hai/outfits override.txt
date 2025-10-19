@@ -1,0 +1,2 @@
+outfit "Ion Cannon"
+	thumbnail "outfit/override/ion cannon"

@@ -13,6 +13,11 @@ images/outfit/the irm/keystone stabiliser*
 	Copyright: Koranir (daniel@yoon.com.au)
 	Derived from:
 		- Michael Zahniser (mzahniser@gmail.com)
+images/outfit/override/ion cannon
+	License: CC-BY-SA-4.0
+	Copyright: Becca Tommaso
+	Derived from:
+		- Michael Zahniser <mzahniser@gmail.com>
 #	unused
 images/-/ship/bennu*
 images/-/thumbnail/bennu*
